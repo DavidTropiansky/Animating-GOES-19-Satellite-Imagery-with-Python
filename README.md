@@ -1,6 +1,13 @@
 # Animating GOES-19 Satellite Imagery with Python 🛰️
 
-![GOES-19 Satellite](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/ne/GEOCOLOR/600x600.jpg)
+## 🛰️ GOES-19 Satellite Latest Northeast Image
+![GOES-19 Satellite Latest Northeast Image](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/ne/GEOCOLOR/600x600.jpg)
+
+## 🛰️ Sample Output
+
+![Satellite Animation](https://github.com/DavidTropiansky/Animating-GOES-19-Satellite-Imagery-with-Python/blob/main/animation_2025-06-12_02-26.gif?raw=true)
+
+
 
 ## 🌎 Overview
 
